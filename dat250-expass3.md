@@ -7,23 +7,23 @@ there was a precompiled binary available on the Arch User Repository.
 ## Screenshots
 
 ### Validation
-![val]()
+![val](https://github.com/danj98/dat250-assignments/blob/main/data/pgp-verified.png)
 ### Insert
-![insert]()
+![insert](https://github.com/danj98/dat250-assignments/blob/main/data/insert.png)
 ### Query
-![query]()
+![query](https://github.com/danj98/dat250-assignments/blob/main/data/query.png)
 ### Update
-![update]()
+![update](https://github.com/danj98/dat250-assignments/blob/main/data/update.png)
 ### Remove
-![remove]()
+![remove](https://github.com/danj98/dat250-assignments/blob/main/data/delete.png)
 ### Bulk write
-![bulk]()
+![bulk](https://github.com/danj98/dat250-assignments/blob/main/data/bulk.png)
 
 ### Experiment 2 working
-![gpg]()
+![exp2](https://github.com/danj98/dat250-assignments/blob/main/data/exp2.png)
 
 ### Own function
-![own-func]()
+![own-func](https://github.com/danj98/dat250-assignments/blob/main/data/own-function.png)
 
 ## Map-reduce operation
 ### Map function
