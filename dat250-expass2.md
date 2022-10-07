@@ -8,7 +8,7 @@ Installation itself was no issue due to the pre-made Maven project. I had some i
 
 ## Inspection of database
 On IntelliJ IDEA, inspecting the database was easy due to the visualization tools included. Here is a screenshot of the final database tables:
-![img](https://github.com/danj98/dat250-assignments/blob/main/data/db-screenshot.png)
+![img](https://github.com/danj98/dat250-assignments/blob/main/assets/db-screenshot.png)
 
 ## Pending issues
 No pending issues, test passed.

@@ -7,23 +7,23 @@ there was a precompiled binary available on the Arch User Repository.
 ## Screenshots
 
 ### Validation
-![val](https://github.com/danj98/dat250-assignments/blob/main/data/pgp-verified.png)
+![val](https://github.com/danj98/dat250-assignments/blob/main/assets/pgp-verified.png)
 ### Insert
-![insert](https://github.com/danj98/dat250-assignments/blob/main/data/insert.png)
+![insert](https://github.com/danj98/dat250-assignments/blob/main/assets/insert.png)
 ### Query
-![query](https://github.com/danj98/dat250-assignments/blob/main/data/query.png)
+![query](https://github.com/danj98/dat250-assignments/blob/main/assets/query.png)
 ### Update
-![update](https://github.com/danj98/dat250-assignments/blob/main/data/update.png)
+![update](https://github.com/danj98/dat250-assignments/blob/main/assets/update.png)
 ### Remove
-![remove](https://github.com/danj98/dat250-assignments/blob/main/data/delete.png)
+![remove](https://github.com/danj98/dat250-assignments/blob/main/assets/delete.png)
 ### Bulk write
-![bulk](https://github.com/danj98/dat250-assignments/blob/main/data/bulk.png)
+![bulk](https://github.com/danj98/dat250-assignments/blob/main/assets/bulk.png)
 
 ### Experiment 2 working
-![exp2](https://github.com/danj98/dat250-assignments/blob/main/data/exp2.png)
+![exp2](https://github.com/danj98/dat250-assignments/blob/main/assets/exp2.png)
 
 ### Own function
-![own-func](https://github.com/danj98/dat250-assignments/blob/main/data/own-function.png)
+![own-func](https://github.com/danj98/dat250-assignments/blob/main/assets/own-function.png)
 
 ## Map-reduce operation
 ### Map function
