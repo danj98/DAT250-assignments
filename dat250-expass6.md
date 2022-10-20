@@ -7,4 +7,4 @@ No technical problems were encountered.
 [link](https://github.com/danj98/dat250-expass6)
 
 ## Pending issues
-No pending issues.
+While you can post, delete and get todos from the app to the API, they for some reason won't display? This is adapted from the tutorial on Angular's docs.
